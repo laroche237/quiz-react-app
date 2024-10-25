@@ -1,0 +1,15 @@
+.chrono{
+    background-color:#018286;
+    display: block;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+    border: none;
+   padding: 2px 5px;
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+p{
+    text-align: center;
+}

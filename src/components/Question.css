@@ -1,0 +1,27 @@
+.question-section {
+    width: 100%;
+  }
+  
+  .question-count {
+    margin-bottom: 20px;
+    font-size: 1.2em;
+    color:white;
+  }
+  
+  .question-text {
+    margin-bottom: 12px;
+    font-size: 1.5em;
+    color: #333;
+    text-align: center;
+  }
+  
+  .answer-section {
+    display: flex;
+    flex-direction: column;
+  }
+  
+p{
+    text-align: center;
+}
+ 
+  
