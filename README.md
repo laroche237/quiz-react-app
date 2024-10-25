@@ -20,7 +20,7 @@ Node.js and npm installed on your machine.
 ## Installation
 ### 1. **Clone the Repository:**
 
-git clone https://github.com/your-username/quiz-app-timer.git
+git clone https://github.com/your-username/quiz-react-app.git
 cd quiz-app-timer
 
 
@@ -77,11 +77,9 @@ This will create a `build/` directory with the optimized static files.
 
 ## Screenshots
 
-![l'application quiz](src\photos\quiz-app-1.PNG)  
-![Pagination](src\photos\quiz-app-2.PNG) 
-![Resultat du quiz](src\photos\quiz-app-3.PNG) 
-*Description of what the image shows.*
-
+![l'application quiz](src/photos/quiz-app-1.PNG)  
+![Pagination](src/photos/quiz-app-2.PNG) 
+![Resultat du quiz](src/photos/quiz-app-3.PNG) 
 
 
 ## Tech Stack
