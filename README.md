@@ -20,7 +20,7 @@ Node.js and npm installed on your machine.
 ## Installation
 ### 1. **Clone the Repository:**
 
-git clone https://github.com/your-username/quiz-react-app.git
+git clone https://github.com/laroche237/quiz-react-app.git
 cd quiz-app-timer
 
 
